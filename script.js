@@ -47,7 +47,7 @@ for (var i = 0; i < navLinks.length; i++) {
 // download cv button
 let CVbtn = document.querySelector(".CVBtn");
 CVbtn.onclick = function () {
-  window.open("/cv/resume.html");
+  window.open("cv/resume.html");
 }
 
 //hire me
